@@ -10,6 +10,7 @@ The design focuses on network segmentation, secure communication, high availabil
 
 ## Network Architecture
 
+![Hospital Network Architecture](diagrams/network-architecture.png)
 The proposed architecture uses a hybrid wired and wireless network.
 
 Key design components include:
